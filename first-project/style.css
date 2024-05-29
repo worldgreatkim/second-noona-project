@@ -1,0 +1,14 @@
+.red {
+  color:red;
+  background-color: yellow;
+  text-align: center;
+}
+
+.border-blue{
+  border: 5px solid blue;
+}
+
+.img-size {
+  width:200px;
+  height: 200px;
+}
